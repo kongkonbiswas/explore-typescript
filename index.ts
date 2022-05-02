@@ -6,7 +6,7 @@ function getLowerCase(str: string) {
 
  console.log(getLowerCase("Hello"));
  console.log(getLowerCase("Hello world"));
- console.log(getLowerCase(45));
+ console.log(getLowerCase(""));
 
  const b: number = 234;
 
